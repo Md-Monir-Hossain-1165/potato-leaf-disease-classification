@@ -6,6 +6,10 @@ Submission package containing the paper, supporting report, and evaluation outpu
 
 The training and evaluation work was completed in this notebook: [Open the Google Colab notebook](https://colab.research.google.com/drive/1yti2clWmj8L_ELO61yU5_snd0p2WCWmI?usp=sharing#scrollTo=2b55c17e).
 
+## Dataset
+
+This project uses the potato leaf images from the [PlantVillage Dataset](https://github.com/spMohanty/PlantVillage-Dataset). The project uses three classes: early blight, late blight, and healthy potato leaves.
+
 ## Contents
 
 - `01_Paper/` — final paper (`paper.pdf`)
