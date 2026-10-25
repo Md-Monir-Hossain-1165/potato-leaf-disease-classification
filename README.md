@@ -2,6 +2,10 @@
 
 Submission package containing the paper, supporting report, and evaluation outputs for a potato leaf disease classification project.
 
+## Google Colab notebook
+
+The training and evaluation work was completed in this notebook: [Open the Google Colab notebook](https://colab.research.google.com/drive/1yti2clWmj8L_ELO61yU5_snd0p2WCWmI?usp=sharing#scrollTo=2b55c17e).
+
 ## Contents
 
 - `01_Paper/` — final paper (`paper.pdf`)
